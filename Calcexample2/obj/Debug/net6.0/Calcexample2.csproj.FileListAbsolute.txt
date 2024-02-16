@@ -1,0 +1,14 @@
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\Calcexample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\Calcexample2.AssemblyInfoInputs.cache
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\Calcexample2.AssemblyInfo.cs
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\Calcexample2.csproj.CoreCompileInputs.cache
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\bin\Debug\net6.0\Calcexample2.exe
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\bin\Debug\net6.0\Calcexample2.deps.json
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\bin\Debug\net6.0\Calcexample2.runtimeconfig.json
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\bin\Debug\net6.0\Calcexample2.dll
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\bin\Debug\net6.0\Calcexample2.pdb
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\Calcexample2.dll
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\refint\Calcexample2.dll
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\Calcexample2.pdb
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\Calcexample2.genruntimeconfig.cache
+C:\Users\kusum\Desktop\Phase 4\feb 16\Calcexample2\Calcexample2\obj\Debug\net6.0\ref\Calcexample2.dll
